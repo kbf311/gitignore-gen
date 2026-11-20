@@ -1,0 +1,7 @@
+### Generated files ###
+output/*
+
+### Git utility scripts ###
+/force-pull.bat
+/reset-history.bat
+/wip.bat
